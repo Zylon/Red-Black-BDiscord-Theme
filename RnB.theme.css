@@ -1,4 +1,4 @@
-﻿//META{"name":"Red & Black","description":"Just a theme for the red and black fans with a hint of autism.","author":"Zylon","version":"3"}*//
+//META{"name":"Red & Black","description":"Just a theme for the red and black fans with a hint of autism.","author":"Zylon","version":"5"}*//
 
 /* 
 Hex color for everything: #9f0000
@@ -906,8 +906,8 @@ a:link {
     color: #ffe6e6;
 }
 .user-popout .footer {
-    background: #ffffff;
-    border-top: 1px solid #ce174d !important;
+    background: rgba(0, 0, 0, 0.86);
+    border: 1px solid rgba(255, 0, 0, 0.2) !important;
     border-radius: 0 0 10px 10px !important;
 }
 .user-popout .footer .update-notice {
@@ -921,16 +921,18 @@ a:link {
     background: rgba(0, 0, 0, 0.86);
 }
 .user-popout .body {
-    background: rgba(21, 0, 0, 0.83);
+    background: rgba(0, 0, 0, 0.86);
+    border: 1px solid rgba(255, 0, 0, 0.2) !important;
 }
 .user-popout .avatar-wrapper .avatar-popout {
     background-color: transparent;
     border: 4px solid rgb(243, 5, 5) !important;
 }
-.user-popout .footer {
-    background: rgba(138, 2, 2, 0.87);
-    border-top: 1px solid #E40303 !important;
-    border-radius: 0 0 10px 10px !important;
+.bd-blue .user-popout .header {
+    background: rgba(0, 0, 0, 0);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.86), rgba(0, 0, 0, 0.86), rgba(0, 0, 0, 0.86), rgba(21, 0, 0, 0.86));
+    border: 1px solid rgba(255, 0, 0, 0.2) !important;
+    border-radius: 10px 10px 0 0 !important;
 }
 .user-popout .footer .quick-message-wrapper .input {
     border: 1px solid #9f0000 !important;
@@ -1010,14 +1012,27 @@ a:link {
 }
 
 /* Uploading */
+.bd-blue .upload-modal {
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(255, 0, 0, 0.2) !important;
+    border-radius: 10px 10px 10px 10px !important;
+}
+.bd-blue .upload-drop-modal .bgScale {
+    background: rgb(0, 0, 0);
+    border: 1px solid rgba(255, 0, 0, 0.2) !important;
+    border-radius: 10px 10px 10px 10px !important;
+}
 .upload-modal {
     background-color: rgba(30, 30, 30, 0.78);
 }
 .upload-modal .footer {
-    background-color: rgba(0, 0, 0, 0.44);
+    border-top:1px  rgba(255, 0, 0, 1);
+    background-color: rgba(21, 0, 0, 0.4);
 }
 .upload-modal .inner {
-    border:2px dashed rgba(6, 6, 6, 0.52);
+    margin: 0px;
+    border: 1px dashed rgba(0, 0, 0, 0.0);
+    border-bottom: 1px solid rgba(255, 0, 0, 0.2);
 }
 .upload-modal .footer .button {
     background-color: #9f0000;
@@ -1032,13 +1047,13 @@ a:link {
 }
 .upload-modal .inner .file .icon.image {
     border: 2px solid #9f0000;
-    box-shadow: 0 2px 8px rgb(105, 0, 0);
+    box-shadow: 0 0px 0px rgb(105, 0, 0);
 }
 .upload-drop-modal .bgScale {
     background: rgba(30, 30, 30, 0.78);
 }
 .upload-drop-modal .inner {
-    border: 2px dashed #9f0000;
+    border: 0px dashed #9f0000;
 }
 .upload-drop-modal .inner .title {
     color: #9f0000;
