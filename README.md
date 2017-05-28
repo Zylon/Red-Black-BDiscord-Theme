@@ -1,9 +1,9 @@
 # Welcome
 This is my repo for css skins I'll make and edit along the time.
-For any bug reports and/or questions, visit my [Discord server](https://discord.gg/sbZgha2)
+For any bug reports and/or questions, visit my [Discord server.](https://discord.gg/sbZgha2)
 
 # Red and Black theme
-The Red and Black theme is mostly focused on black, with bring red elements mixed in.
+The Red and Black theme is mostly focused on black, while bringing red accents into the mix.
 Perfectly for edge lords, or if you don't want your eyes to burn when you open discord at mid-night.
 
 ### Example Screenshots
@@ -23,12 +23,12 @@ Perfectly for edge lords, or if you don't want your eyes to burn when you open d
 | [Upload part 2](http://i.imgur.com/FL7crSR.png)  | [Upload part 2](http://i.imgur.com/ppDXqbh.png)  |
 
 ## What still needs fixing?
-* Emoji picker
-* Message deletion confirmation screen
-* Blue border around picture thumbnails in upload screen
+* Emoji picker.
+* Message deletion confirmation screen.
+* Blue border around picture thumbnails in upload screen.
 * The whole of User/Server Settings (No idea how I'm going to do this anytime soon.)
 
 ### Minor things?
-* The blue backdrop under `.PNG` server icons when you look at someone's "Mutual Servers" in their profile (should be black/red)
+* The blue backdrop under `.PNG` server icons when you look at someone's "Mutual Servers" in their profile. (should be black/red)
 * Clicking to add a note will make the text field light up **white** for some reason.
 * Removing the little "Invite" button that appears on every text channel.
