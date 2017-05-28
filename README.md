@@ -7,13 +7,13 @@ The Red and Black theme is mostly focused on black, with bring red elements mixe
 Perfectly for edge lords, or if you don't want your eyes to burn when you open discord at mid-night.
 
 ### Example Screenshots
-[Code Blocks](http://i.imgur.com/r1Qcs9E.png)
-[Generic Chat](http://i.imgur.com/WGQN2G8.png)
-[User Pop-out Profile](http://i.imgur.com/54IxWnC.png)
-[Full User Profile](http://i.imgur.com/MGNOahv.png)
-[User Options Menu](http://i.imgur.com/9AZT33c.png)
-[Voice Elements](http://i.imgur.com/cUWat1H.png)
-[File Uploading](http://i.imgur.com/ppDXqbh.png)
+- [Code Blocks](http://i.imgur.com/r1Qcs9E.png)
+- [Generic Chat](http://i.imgur.com/WGQN2G8.png)
+- [User Pop-out Profile](http://i.imgur.com/54IxWnC.png)
+- [Full User Profile](http://i.imgur.com/MGNOahv.png)
+- [User Options Menu](http://i.imgur.com/9AZT33c.png)
+- [Voice Elements](http://i.imgur.com/cUWat1H.png)
+- [File Uploading](http://i.imgur.com/ppDXqbh.png)
 
 ## Latest Fixes
 | Previous Version  | Latest Version |
