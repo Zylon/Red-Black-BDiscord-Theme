@@ -26,6 +26,8 @@ Perfectly for edge lords, or if you don't want your eyes to burn when you open d
 * Emoji picker.
 * Message deletion confirmation screen.
 * Blue border around picture thumbnails in upload screen.
+* Little `X` to remove roles from users in their "User Pop-out profile" is not visible.
+* While editing a message, a new copy of your profile picture will appear with a down-right offset.
 * The whole of User/Server Settings (No idea how I'm going to do this anytime soon.)
 
 ### Minor things?
