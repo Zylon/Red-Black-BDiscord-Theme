@@ -2,6 +2,12 @@
 This is my repo for css skins I'll make and edit along the time.
 For any bug reports and/or questions, visit my [Discord server.](https://discord.gg/sbZgha2)
 
+# First note
+This is currently completely broken, due to discord that keeps changing it's layout.
+I don't have enough time to keep it updated, nor am I experienced enough.
+
+I **WILL** upload more css/themes in the future, just not right now.
+
 # Red and Black theme
 The Red and Black theme is mostly focused on black, while bringing red accents into the mix.
 Perfectly for edge lords, or if you don't want your eyes to burn when you open discord at mid-night.
