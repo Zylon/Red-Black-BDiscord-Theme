@@ -1,6 +1,5 @@
 # Welcome
 This is my repo for css skins I'll make and edit along the time.
-For any bug reports and/or questions, visit my [Discord server.](https://discord.gg/sbZgha2)
 
 # First note
 This is currently completely broken, due to discord that keeps changing it's layout.
